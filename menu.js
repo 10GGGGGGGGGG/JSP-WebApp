@@ -4,7 +4,7 @@ var visitorsj;
 var civilj;
 
 function preload() {
-  jsp = loadImage('jsp.jpg');
+  jsp = loadImage('jsp.png');
   }
 
 function setup() {
